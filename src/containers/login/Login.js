@@ -3,6 +3,8 @@ import './Login.css';
 import logo from '../../assets/logo.png'
 import Grid from '@material-ui/core/Grid';
 import TextField from '@material-ui/core/TextField';
+import Button from '@material-ui/core/Button';
+
 
 
 function Login() {
@@ -36,6 +38,9 @@ function Login() {
                         shrink: true,
                     }}
                 />
+                <Button className={"form-button"} variant="contained" color="primary"  style={{ margin: 8, marginTop: 30, }}>
+                    Login
+                </Button>
             </form>
           </Grid>
       </Grid>
