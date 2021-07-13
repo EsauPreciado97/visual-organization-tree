@@ -3,7 +3,7 @@ import { makeStyles } from '@material-ui/core/styles';
 import Modal from '@material-ui/core/Modal';
 import Button from '@material-ui/core/Button';
 import "./modals.css";
-import user from '../../assets/user 1.png'
+import user from '../../assets/user 4.png'
 
 
 function getModalStyle() {
@@ -28,7 +28,7 @@ const useStyles = makeStyles((theme) => ({
   },
 }));
 
-export default function Modal1() {
+export default function Modal2() {
   const classes = useStyles();
   // getModalStyle is not a pure function, we roll the style only on the first render
   const [modalStyle] = React.useState(getModalStyle);
@@ -46,10 +46,10 @@ export default function Modal1() {
     <div style={modalStyle} className={classes.paper}>
         <div className={"modal-alignment"}>
             <img className={"modal-img"} src={user} alt={"user profile"} />
-            <p className={"name"}>Marvin Oneida</p>
-            <p className={"position"}>General Manager</p>
+            <p className={"name"}>Dianne Winnifred</p>
+            <p className={"position"}>Product Manager</p>
             <p className={"id"}>JD-123456</p>
-            <p className={"mail"}>marvin.oneida@beliveo.com</p>
+            <p className={"mail"}>dianne.winnifred@beliveo.com</p>
             <p className={"tel"}>+52 444 444 4444</p>
         </div>
     </div>

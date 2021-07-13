@@ -11,6 +11,11 @@ import user3 from '../../assets/user 3.png'
 import user4 from '../../assets/user 4.png'
 import user5 from '../../assets/user 5.png'
 import Modal1 from '../modals/Modal_1';
+import Modal2 from '../modals/Modal_2';
+import Modal3 from '../modals/Modal_3';
+import Modal4 from '../modals/Modal_4';
+import Modal5 from '../modals/Modal_5';
+
 
 
 
@@ -105,7 +110,7 @@ function Tree () {
                                 <p className={"contact-position"}>Product Manager</p>
                             </Typography>
                         </AccordionSummary>
-                        <Modal1 className={"modal"} />
+                        <Modal2 className={"modal"} />
                         <AccordionDetails>
                            <Accordion square expanded={expanded3 === 'panel3'} onChange={handleChange3('panel3')}>
                                 <AccordionSummary className={"width"} aria-controls="panel1d-content" id="panel1d-header">
@@ -115,7 +120,7 @@ function Tree () {
                                         <p className={"contact-position"}>Team Leader</p>
                                     </Typography>
                                 </AccordionSummary>
-                                <Modal1 />
+                                <Modal3 />
                                 <AccordionDetails>
                                     <Accordion square expanded={expanded4 === 'panel4'} onChange={handleChange4('panel4')}>
                                         <AccordionSummary className={"width"} aria-controls="panel1d-content" id="panel1d-header">
@@ -125,7 +130,7 @@ function Tree () {
                                                 <p className={"contact-position"}>Project Manager</p>
                                             </Typography>                                        
                                         </AccordionSummary>
-                                        <Modal1 />
+                                        <Modal4 />
                                         <AccordionDetails>
                                             <Accordion square expanded={expanded5 === 'panel5'} onChange={handleChange5('panel5')}>
                                                 <AccordionSummary className={"width"} aria-controls="panel1d-content" id="panel1d-header">
@@ -135,7 +140,7 @@ function Tree () {
                                                     <p className={"contact-position"}>Software Developer</p>
                                                 </Typography>
                                                 </AccordionSummary>
-                                                <Modal1 />
+                                                <Modal5 />
                                             </Accordion>
                                         </AccordionDetails>
                                     </Accordion>

@@ -1,0 +1,25 @@
+.modal-alignment{
+    text-align: center;
+}
+.modal-alignment .modal-img{
+    margin-top: 15%;
+}
+.modal-alignment .name{
+    font-weight: 700;
+    font-size: 18px;
+}
+.modal-alignment .position{
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.modal-alignment .mail{
+    margin-top: 10%;
+    font-weight: bold;
+    color: gray;
+}
+.modal-alignment .tel{
+    text-align: center;
+    font-weight: bold;
+    color: gray;
+}
