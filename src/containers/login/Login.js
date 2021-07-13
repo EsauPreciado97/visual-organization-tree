@@ -38,9 +38,15 @@ function Login() {
                         shrink: true,
                     }}
                 />
-                <Button className={"form-button"} variant="contained" color="primary"  style={{ margin: 8, marginTop: 30, }}>
-                    Login
-                </Button>
+                <div className={"form-btn-container"}>
+                    <Button 
+                        className={"form-button"} 
+                        variant="contained" 
+                        color="primary"  
+                        >
+                        Login
+                    </Button>
+                </div>
             </form>
           </Grid>
       </Grid>

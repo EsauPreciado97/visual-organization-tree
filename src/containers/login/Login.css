@@ -36,7 +36,12 @@
 .form-container .form-inputs .form-button {
     position: relative;
     top: 100%;
+    text-transform: none;
+    margin-top: 50px;
 
+}
+.form-container .form-inputs .form-btn-container{
+    text-align: right;
 }
 
 
