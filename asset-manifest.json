@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/EsauPreciado97/visual-organization-tree/static/css/main.9d0f839a.chunk.css",
-    "main.js": "/EsauPreciado97/visual-organization-tree/static/js/main.ba05e4a6.chunk.js",
-    "main.js.map": "/EsauPreciado97/visual-organization-tree/static/js/main.ba05e4a6.chunk.js.map",
-    "runtime-main.js": "/EsauPreciado97/visual-organization-tree/static/js/runtime-main.83240eca.js",
-    "runtime-main.js.map": "/EsauPreciado97/visual-organization-tree/static/js/runtime-main.83240eca.js.map",
-    "static/js/2.aa2326a5.chunk.js": "/EsauPreciado97/visual-organization-tree/static/js/2.aa2326a5.chunk.js",
-    "static/js/2.aa2326a5.chunk.js.map": "/EsauPreciado97/visual-organization-tree/static/js/2.aa2326a5.chunk.js.map",
-    "index.html": "/EsauPreciado97/visual-organization-tree/index.html",
-    "static/css/main.9d0f839a.chunk.css.map": "/EsauPreciado97/visual-organization-tree/static/css/main.9d0f839a.chunk.css.map",
-    "static/js/2.aa2326a5.chunk.js.LICENSE.txt": "/EsauPreciado97/visual-organization-tree/static/js/2.aa2326a5.chunk.js.LICENSE.txt",
-    "static/media/Login.css": "/EsauPreciado97/visual-organization-tree/static/media/beliveo_login.586b29fd.png",
-    "static/media/logo.a56ca231.png": "/EsauPreciado97/visual-organization-tree/static/media/logo.a56ca231.png",
-    "static/media/user 1.aa64cc58.png": "/EsauPreciado97/visual-organization-tree/static/media/user 1.aa64cc58.png",
-    "static/media/user 2.9607d6bb.png": "/EsauPreciado97/visual-organization-tree/static/media/user 2.9607d6bb.png",
-    "static/media/user 3.506541c5.png": "/EsauPreciado97/visual-organization-tree/static/media/user 3.506541c5.png",
-    "static/media/user 4.ee8b8f8b.png": "/EsauPreciado97/visual-organization-tree/static/media/user 4.ee8b8f8b.png",
-    "static/media/user 5.886de47b.png": "/EsauPreciado97/visual-organization-tree/static/media/user 5.886de47b.png"
+    "main.css": "/visual-organization-tree/static/css/main.7ecb025e.chunk.css",
+    "main.js": "/visual-organization-tree/static/js/main.47608601.chunk.js",
+    "main.js.map": "/visual-organization-tree/static/js/main.47608601.chunk.js.map",
+    "runtime-main.js": "/visual-organization-tree/static/js/runtime-main.0b3e92cb.js",
+    "runtime-main.js.map": "/visual-organization-tree/static/js/runtime-main.0b3e92cb.js.map",
+    "static/js/2.d07298d4.chunk.js": "/visual-organization-tree/static/js/2.d07298d4.chunk.js",
+    "static/js/2.d07298d4.chunk.js.map": "/visual-organization-tree/static/js/2.d07298d4.chunk.js.map",
+    "index.html": "/visual-organization-tree/index.html",
+    "static/css/main.7ecb025e.chunk.css.map": "/visual-organization-tree/static/css/main.7ecb025e.chunk.css.map",
+    "static/js/2.d07298d4.chunk.js.LICENSE.txt": "/visual-organization-tree/static/js/2.d07298d4.chunk.js.LICENSE.txt",
+    "static/media/Login.css": "/visual-organization-tree/static/media/beliveo_login.586b29fd.png",
+    "static/media/logo.a56ca231.png": "/visual-organization-tree/static/media/logo.a56ca231.png",
+    "static/media/user 1.aa64cc58.png": "/visual-organization-tree/static/media/user 1.aa64cc58.png",
+    "static/media/user 2.9607d6bb.png": "/visual-organization-tree/static/media/user 2.9607d6bb.png",
+    "static/media/user 3.506541c5.png": "/visual-organization-tree/static/media/user 3.506541c5.png",
+    "static/media/user 4.ee8b8f8b.png": "/visual-organization-tree/static/media/user 4.ee8b8f8b.png",
+    "static/media/user 5.886de47b.png": "/visual-organization-tree/static/media/user 5.886de47b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.83240eca.js",
-    "static/js/2.aa2326a5.chunk.js",
-    "static/css/main.9d0f839a.chunk.css",
-    "static/js/main.ba05e4a6.chunk.js"
+    "static/js/runtime-main.0b3e92cb.js",
+    "static/js/2.d07298d4.chunk.js",
+    "static/css/main.7ecb025e.chunk.css",
+    "static/js/main.47608601.chunk.js"
   ]
 }
