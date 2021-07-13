@@ -34,10 +34,12 @@ As a Software Developer, I want to be able to see the company tree view so I can
 
 * Login
 
+![image](https://user-images.githubusercontent.com/38570371/125389231-80ae2d80-e366-11eb-8014-851d73e140dc.png)
+
 * Dashboard / Visual Tree
+
+![image](https://user-images.githubusercontent.com/38570371/125389252-8a379580-e366-11eb-85c9-894c0aabff50.png)
 
 * Modal with Employee Card Details
 
-## Live Demo
-
-    https://esaupreciado97.github.io/visual-organization-tree/
+![image](https://user-images.githubusercontent.com/38570371/125389271-93c0fd80-e366-11eb-8f49-e88e35806f4b.png)
