@@ -1,0 +1,36 @@
+.login-container{
+    margin: 0px;
+    height: 100vh;
+}
+
+.photo-container{
+    background-image: url('../../assets/beliveo_login.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+}
+.photo-container .photo-h1{
+    color: #FFFFFF;
+    position: relative;
+    top: 5%;
+    left: 5%;
+    font-size: 3.5rem;
+    font-weight: 400;
+}
+
+.form-container {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+.form-container .form-logo-img{
+    height: 20%;
+    position: relative;
+    top: 10%;
+}
+.form-container .form-inputs{
+    position: relative;
+    top: 20%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
