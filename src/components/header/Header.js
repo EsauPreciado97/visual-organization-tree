@@ -71,7 +71,7 @@ function Header() {
                         <Paper>
                             <ClickAwayListener onClickAway={handleClose}>
                             <MenuList autoFocusItem={open} id="menu-list-grow" onKeyDown={handleListKeyDown}>
-                                <MenuItem onClick={handleClose}>Logout</MenuItem>
+                                <Link className={"logout-button"} to={'/login'}><MenuItem onClick={handleClose}>Logout</MenuItem></Link>
                             </MenuList>
                             </ClickAwayListener>
                         </Paper>

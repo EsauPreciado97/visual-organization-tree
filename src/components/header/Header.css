@@ -21,4 +21,8 @@
     text-align: right;
     padding-right: 5%;
 }
-
+.logout-button{
+    text-decoration: none;
+    color: #000000;
+    
+}

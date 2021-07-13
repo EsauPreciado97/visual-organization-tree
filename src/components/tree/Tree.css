@@ -25,3 +25,6 @@
 .width{
     min-width: 60vw;
 }
+.modal{
+    position: absolute;
+}
