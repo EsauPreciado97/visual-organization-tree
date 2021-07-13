@@ -1,3 +1,4 @@
+import React from 'react';
 import './App.css';
 import Dashboard from './containers/dashboard/Dashboard';
 import Login from './containers/login/Login';
