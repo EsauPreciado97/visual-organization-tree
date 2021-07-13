@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.2858d8da.chunk.css",
-    "main.js": "/static/js/main.94fda16d.chunk.js",
-    "main.js.map": "/static/js/main.94fda16d.chunk.js.map",
+    "main.css": "/static/css/main.060168fc.chunk.css",
+    "main.js": "/static/js/main.d8ce7424.chunk.js",
+    "main.js.map": "/static/js/main.d8ce7424.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.37b56bfc.js",
     "runtime-main.js.map": "/static/js/runtime-main.37b56bfc.js.map",
-    "static/js/2.62fd55e6.chunk.js": "/static/js/2.62fd55e6.chunk.js",
-    "static/js/2.62fd55e6.chunk.js.map": "/static/js/2.62fd55e6.chunk.js.map",
+    "static/js/2.18ef5e42.chunk.js": "/static/js/2.18ef5e42.chunk.js",
+    "static/js/2.18ef5e42.chunk.js.map": "/static/js/2.18ef5e42.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.2858d8da.chunk.css.map": "/static/css/main.2858d8da.chunk.css.map",
-    "static/js/2.62fd55e6.chunk.js.LICENSE.txt": "/static/js/2.62fd55e6.chunk.js.LICENSE.txt"
+    "static/css/main.060168fc.chunk.css.map": "/static/css/main.060168fc.chunk.css.map",
+    "static/js/2.18ef5e42.chunk.js.LICENSE.txt": "/static/js/2.18ef5e42.chunk.js.LICENSE.txt",
+    "static/media/Login.css": "/static/media/beliveo_login.586b29fd.png",
+    "static/media/logo.a56ca231.png": "/static/media/logo.a56ca231.png"
   },
   "entrypoints": [
     "static/js/runtime-main.37b56bfc.js",
-    "static/js/2.62fd55e6.chunk.js",
-    "static/css/main.2858d8da.chunk.css",
-    "static/js/main.94fda16d.chunk.js"
+    "static/js/2.18ef5e42.chunk.js",
+    "static/css/main.060168fc.chunk.css",
+    "static/js/main.d8ce7424.chunk.js"
   ]
 }
